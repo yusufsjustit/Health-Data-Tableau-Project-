@@ -2,8 +2,7 @@
 
 This Tableau project uses the **Gapminder Health dataset** to explore global health trends across countries, continents, and gender groups. The dashboard includes interactive visuals that provide insights into population distributions, regional health indicators, and gender representation.
 
-[Dashboard Preview](https://public.tableau.com/app/profile/yusuf1911/viz/3_1_Your_first_symbol_maporiginal_17518992962060/Dashboard1?publish=yes) <!-- Replace with actual file path -->
-
+[Link to my Dashboard](https://public.tableau.com/app/profile/yusuf1911/viz/3_1_Your_first_symbol_maporiginal_17518992962060/Dashboard1?publish=yes)
 ---
 
 ## 📊 Visualizations
