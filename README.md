@@ -62,6 +62,7 @@ The project uses a cleaned and formatted version of the **Gapminder Health** dat
 
 ---
 
+
 ## 🙌 Acknowledgments
 
 - [Gapminder.org](https://www.gapminder.org) for open-source data  
@@ -69,3 +70,4 @@ The project uses a cleaned and formatted version of the **Gapminder Health** dat
 
 ---
 
+![Screenshot 2025-07-07 160603](https://github.com/user-attachments/assets/9692088a-00f4-4e7d-b055-fded262672d6)
